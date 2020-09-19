@@ -1,16 +1,18 @@
-### Hi there 👋
+# Shreya Dadhich
+[![Linkedin Badge](https://img.shields.io/badge/-ShreyaDadhich-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shreya-dadhich-0566a1152/)](https://www.linkedin.com/in/shreya-dadhich-0566a1152/)
+[![Gmail Badge](https://img.shields.io/badge/-shreya.dadhich59@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shreya.dadhich59@gmail.com)](mailto:shreya.dadhich59@gmail.com)
+---
+## Hi there 👋,           
+I'm Shreya Dadhich, Student at 👨‍💻 JECRC University Pursuing B.Tech. I am a student developer love to spend time with techy stuff and exploring new things and people.
 
-<!--
-**shreyansjain012/shreyansjain012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧐 About
+- 🌱 I love working on linux terminals and Python
+- ⚡ I’m currently learning ML, AI
+- 👯 And Many More...
 
-Here are some ideas to get you started:
+# Hello World!! 🤔
+- 💬 Ask me about anything and everything! 
+- 💬 Ping Me about #ML #Python, #DevOps, #Docker ,#Docker #Automation and anything you like
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Shreyans's github stats](https://github-readme-stats.vercel.app/api?username=Shreyansjain012&&show_icons=true)
