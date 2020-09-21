@@ -11,7 +11,7 @@ I'm Shreyans Jain, student at 👨‍💻 National Institute of Techology Warang
 - I love working on linux terminals and Python
 - I’m currently learning ML, AI
 - I like to do competitive programming in my free time. 
-- I have a descent experience in Web Development 
+- I have descent experience in Web Development 
 - And Many More...
 
 ---
