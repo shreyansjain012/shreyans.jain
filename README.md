@@ -14,9 +14,6 @@ I'm Shreyans Jain, student at 👨‍💻 National Institute of Techology Warang
 - I have a descent experience in Web Development 
 - And Many More...
 
-# Hello World!! 🤔
-- 💬 Ask me about anything and everything! 
-- 💬 Ping Me about #ML, #Python, #C++, #WebDev, #Docker, and anything you like
 ---
 
 ![Shreyans's github stats](https://github-readme-stats.vercel.app/api?username=Shreyansjain012&&show_icons=true)
