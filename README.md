@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on interesting data science or machine learning projects
 - 🤓 I’m currently learning financial markets 
-- 😄 Pronouns: Software Developer/ Data Scientist
+- 😄 Pronouns: Data Scientist/ Data Analyst
 - ⚡ Fun fact: I am good at chess. I love coffee
 
 ### 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
