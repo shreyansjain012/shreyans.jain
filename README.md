@@ -17,9 +17,9 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Shreyansjain012&show_icons=true&hide_border=false&theme=merko)
 
 <img align="left" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Shreyans13&repo=Shreyans13&countColorcountColor&countColor=%237B1E7B"/>
-
+<!--
 [![GitHub followers](https://img.shields.io/github/followers/Shreyansjain012?label=github&style=for-the-badge)](https://github.com/Shreyansjain012)
-
+-->
 <!-- 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyans13&hide_border=true&show_icons=true)
  ## Show ❤️ By Starring My Repos! -->
